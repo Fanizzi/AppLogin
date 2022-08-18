@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppLogin.View.Protegida">
+    <ContentPage.Background>
+        <LinearGradientBrush StartPoint="0,1" EndPoint="1,0">
+            <GradientStop Color="Purple" Offset="0.3" />
+            <GradientStop Color="Red" Offset="1.1" />
+        </LinearGradientBrush>
+    </ContentPage.Background>
+
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame CornerRadius="10" 
+                   x:Name="frm_dados"
+                   VerticalOptions="CenterAndExpand">
+
+                <StackLayout>
+
+                    <Label x:Name="lbl_boasvindas" />
+
+                    <Button Text="Desconectar" Clicked="Button_Clicked" />
+
+                </StackLayout>
+
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
