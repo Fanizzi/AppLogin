@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\AppLogin\\AppLogin\\AppLogin.Android\\AppLogin.Android.csproj": {}
+    "C:\\Users\\faniz\\Desktop\\AppLogin\\AppLogin\\AppLogin.Android\\AppLogin.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\AppLogin\\AppLogin\\AppLogin.Android\\AppLogin.Android.csproj": {
+    "C:\\Users\\faniz\\Desktop\\AppLogin\\AppLogin\\AppLogin.Android\\AppLogin.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\AppLogin\\AppLogin\\AppLogin.Android\\AppLogin.Android.csproj",
+        "projectUniqueName": "C:\\Users\\faniz\\Desktop\\AppLogin\\AppLogin\\AppLogin.Android\\AppLogin.Android.csproj",
         "projectName": "AppLogin.Android",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\AppLogin\\AppLogin\\AppLogin.Android\\AppLogin.Android.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\AppLogin\\AppLogin\\AppLogin.Android\\obj\\",
+        "projectPath": "C:\\Users\\faniz\\Desktop\\AppLogin\\AppLogin\\AppLogin.Android\\AppLogin.Android.csproj",
+        "packagesPath": "C:\\Users\\faniz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\faniz\\Desktop\\AppLogin\\AppLogin\\AppLogin.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\faniz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "C:\\Users\\Usuario\\Desktop\\AppLogin\\AppLogin\\AppLogin\\AppLogin.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\AppLogin\\AppLogin\\AppLogin\\AppLogin.csproj"
+              "C:\\Users\\faniz\\Desktop\\AppLogin\\AppLogin\\AppLogin\\AppLogin.csproj": {
+                "projectPath": "C:\\Users\\faniz\\Desktop\\AppLogin\\AppLogin\\AppLogin\\AppLogin.csproj"
               }
             }
           }
@@ -54,20 +54,20 @@
         }
       }
     },
-    "C:\\Users\\Usuario\\Desktop\\AppLogin\\AppLogin\\AppLogin\\AppLogin.csproj": {
+    "C:\\Users\\faniz\\Desktop\\AppLogin\\AppLogin\\AppLogin\\AppLogin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\AppLogin\\AppLogin\\AppLogin\\AppLogin.csproj",
+        "projectUniqueName": "C:\\Users\\faniz\\Desktop\\AppLogin\\AppLogin\\AppLogin\\AppLogin.csproj",
         "projectName": "AppLogin",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\AppLogin\\AppLogin\\AppLogin\\AppLogin.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\AppLogin\\AppLogin\\AppLogin\\obj\\",
+        "projectPath": "C:\\Users\\faniz\\Desktop\\AppLogin\\AppLogin\\AppLogin\\AppLogin.csproj",
+        "packagesPath": "C:\\Users\\faniz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\faniz\\Desktop\\AppLogin\\AppLogin\\AppLogin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\faniz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -119,7 +119,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -13,12 +13,13 @@
                 <Setter Property="HeightRequest" Value="45" />
                 <Setter Property="WidthRequest" Value="100" />
                 <Setter Property="FontSize" Value="16" />
-                <Setter Property="FontFamily" Value="" />
+                <Setter Property="FontFamily" Value="NotoSans-Regular" />
             </Style>
 
             <Style TargetType="Label">
                 <Setter Property="TextColor" Value="White" />
                 <Setter Property="FontSize" Value="Medium" />
+                <Setter Property="FontFamily" Value="NotoSans-Regular" />
             </Style>
         </ResourceDictionary>
     </Application.Resources>

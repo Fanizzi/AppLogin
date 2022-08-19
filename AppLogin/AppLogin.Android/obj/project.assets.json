@@ -3172,24 +3172,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Users\\faniz\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\AppLogin\\AppLogin\\AppLogin.Android\\AppLogin.Android.csproj",
+      "projectUniqueName": "C:\\Users\\faniz\\Desktop\\AppLogin\\AppLogin\\AppLogin.Android\\AppLogin.Android.csproj",
       "projectName": "AppLogin.Android",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\AppLogin\\AppLogin\\AppLogin.Android\\AppLogin.Android.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\AppLogin\\AppLogin\\AppLogin.Android\\obj\\",
+      "projectPath": "C:\\Users\\faniz\\Desktop\\AppLogin\\AppLogin\\AppLogin.Android\\AppLogin.Android.csproj",
+      "packagesPath": "C:\\Users\\faniz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\faniz\\Desktop\\AppLogin\\AppLogin\\AppLogin.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\faniz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3203,8 +3203,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Users\\Usuario\\Desktop\\AppLogin\\AppLogin\\AppLogin\\AppLogin.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Desktop\\AppLogin\\AppLogin\\AppLogin\\AppLogin.csproj"
+            "C:\\Users\\faniz\\Desktop\\AppLogin\\AppLogin\\AppLogin\\AppLogin.csproj": {
+              "projectPath": "C:\\Users\\faniz\\Desktop\\AppLogin\\AppLogin\\AppLogin\\AppLogin.csproj"
             }
           }
         }

@@ -17,6 +17,7 @@ namespace AppLogin.View
         App PropriedadesApp;
         public Login()
         {
+            
             InitializeComponent();
 
             PropriedadesApp = (App)Application.Current;

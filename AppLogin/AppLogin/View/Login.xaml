@@ -5,8 +5,8 @@
              Padding="10">
     <ContentPage.Background>
         <LinearGradientBrush StartPoint="0,1" EndPoint="1,0">
-            <GradientStop Color="#2f2841" Offset="0.1" />
-            <GradientStop Color="#1C1C1C" Offset="0.8" />
+            <GradientStop Color="#4F4F4F" Offset="0.1" />
+            <GradientStop Color="Black" Offset="0.8" />
         </LinearGradientBrush>
     </ContentPage.Background>
 
@@ -28,6 +28,7 @@
                     <Label Text="E-mail:" />
                     <Entry x:Name="txt_email"
                            TextColor="White"
+                           
                            Placeholder="Seu email de cadastro" />
 
                     <Label Text="Senha:" />

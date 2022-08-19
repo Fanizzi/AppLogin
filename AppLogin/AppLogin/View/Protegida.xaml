@@ -4,8 +4,8 @@
              x:Class="AppLogin.View.Protegida">
     <ContentPage.Background>
         <LinearGradientBrush StartPoint="0,1" EndPoint="1,0">
-            <GradientStop Color="Purple" Offset="0.3" />
-            <GradientStop Color="Red" Offset="1.1" />
+            <GradientStop Color="#4F4F4F" Offset="0.1" />
+            <GradientStop Color="Black" Offset="0.8" />
         </LinearGradientBrush>
     </ContentPage.Background>
 
@@ -20,7 +20,8 @@
 
                     <Label x:Name="lbl_boasvindas" />
 
-                    <Button Text="Desconectar" Clicked="Button_Clicked" />
+                    <Button Text="Desconectar" Clicked="Button_Clicked" 
+                            WidthRequest="130"/>
 
                 </StackLayout>
 
